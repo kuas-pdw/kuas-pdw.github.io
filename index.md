@@ -74,7 +74,7 @@ Please submit the following materials via the submission form:
 
 1. Full paper (no length limit) **or** extended abstract (up to 5 pages, single-spaced, excluding tables, figures, and references)
 2. CV
-3. *(Optional)* If you wish to apply for financial support (JPY 20,000 per person), please submit a statement of motivation (up to one A4 page).
+3. *(Optional)* If you wish to apply for financial support (JPY 20,000 per person), please submit a statement of motivation (up to one page).
 
 **Submission form:** TBA
 
@@ -180,7 +180,7 @@ Email: inada.takahiro [atto] kuas.ac.jp
 
 1. フルペーパー（字数制限なし）**または** エクステンデッド・アブストラクト（シングルスペースで5ページ以内、表・図・参考文献を除く）
 2. 履歴書（CV）
-3. 【任意】金銭的補助（1名2万円）の申請を希望される方は、参加のモチベーションをA4・1枚以内にまとめてご提出ください。
+3. 【任意】金銭的補助（1名2万円）の申請を希望される方は、参加のモチベーションを1枚以内にまとめてご提出ください。
 
 **提出フォーム：** TBA
 
