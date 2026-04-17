@@ -1,5 +1,5 @@
-# Call for Papers
-## KUAS PDW for Junior Management Scholars in Asia
+# KUAS PDW for Junior Management Scholars in Asia
+## Call for Papers
 
 [English](#english) | [日本語](#japanese)
 
@@ -9,7 +9,7 @@
 
 ### Purpose
 
-This PDW (Paper Development Workshop) is designed for early-career researchers based in Asia or studying management phenomena related to Asia. It provides opportunities to discuss their work and receive individual feedback from scholars with publication and editorial experience at top journals such as the **Academy of Management Journal**, **Strategic Management Journal**, and **Organization Science**. The workshop aims to promote research with global impact originating from Asia.
+This PDW (Paper Development Workshop) is designed for early-career researchers based in Asia or studying management phenomena related to Asia. It provides opportunities to discuss their work and receive individual feedback from scholars with publication and editorial experience at top journals such as Academy of Management Journal, Strategic Management Journal, and Organization Science. The workshop aims to promote research with global impact originating from Asia.
 
 Both on-site participation at Tohoku University (Sendai, Japan) and online participation are welcome. On-site participants will have access to rich networking opportunities with other attendees, and limited financial support (¥20,000 × 4 participants) is available from the Kyoto University of Advanced Science's Kyoto Firm Research Center. We strongly encourage in-person attendance. Sendai in late August offers a cool and pleasant climate — a perfect opportunity to refresh your mind and gain new insights and connections.
 
@@ -103,6 +103,7 @@ Acceptance decisions and mentor matching results will be communicated approximat
 **Takahiro Inada**  
 Associate Professor, Department of Business Administration & Kyoto Firm Research Center  
 Kyoto University of Advanced Science (KUAS)
+Email: inada.takahiro [atto] kuas.ac.jp
 
 ---
 ---
@@ -204,5 +205,5 @@ Kyoto University of Advanced Science (KUAS)
 ### お問い合わせ
 
 **稲田 昂弘**  
-准教授、経営学科・京都企業研究センター  
-京都先端科学大学（KUAS）
+京都先端科学大学 経営学科・京都企業研究センター 准教授
+Email: inada.takahiro [atto] kuas.ac.jp
