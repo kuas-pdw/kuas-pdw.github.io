@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "KUAS PDW for Junior Management Scholars in Asia"
-description: "Call for Papers — Paper Development Workshop, August 25–26 2025, Tohoku University & Online"
+description: "Call for Papers — Paper Development Workshop, August 25–26 2026, Tohoku University & Online"
 ---
 
 ## English {#english}
@@ -68,7 +68,7 @@ Every researcher who has published in top journals had a "first paper." How did 
 
 ### How to Apply
 
-<div class="deadline-box">Submission deadline: July 13, 2025</div>
+<div class="deadline-box">Submission deadline: July 13, 2026</div>
 
 Please submit the following materials via the submission form:
 
@@ -174,7 +174,7 @@ Email: inada.takahiro [atto] kuas.ac.jp
 
 ### 応募方法
 
-<div class="deadline-box">提出締切：2025年7月13日</div>
+<div class="deadline-box">提出締切：2026年7月13日</div>
 
 以下の書類を提出フォームよりご提出ください。
 
