@@ -16,7 +16,7 @@ Both on-site participation at Tohoku University (Sendai, Japan) and online parti
 
 ### Date & Venue
 
-- **Dates:** Monday, August 25 – Tuesday, August 26 *(All times in Japan Standard Time, UTC+9)*
+- **Dates:** Tuesday, August 25 – Wednesday, August 26, 2026 *(All times in Japan Standard Time, UTC+9)*
 - **Venue:** Tohoku University Kawauchi Campus (on-site) or online
 
 ---
@@ -46,7 +46,7 @@ PhD students and early-career researchers in management (generally within 5 year
 | 18:00–20:00 | Networking dinner *(on-site participants only)* |
 
 **Session 2 Panel Discussion: "Lessons from Internationally Active Researchers Based in Japan"**
-- Panelists (tentative): Prof. Katsuki Aoki (Meiji University), Prof. Hirokazu Kano (Kyushu University), Prof. Yasuda (Rikkyo University)
+- Panelists (tentative): Prof. Katsuki Aoki (Meiji University), Prof. Hirokazu Kano (Kyushu University)
 - Moderator: Prof. Takahiro Inada
 
 #### Day 2: August 26
@@ -121,7 +121,7 @@ Email: inada.takahiro [atto] kuas.ac.jp
 
 ### 日時・場所
 
-- **日時：** 8月25日（月）〜26日（火）*※表示時刻はすべて日本標準時（UTC+9）*
+- **日時：** 2026年8月25日（火）〜26日（水）*※表示時刻はすべて日本標準時（UTC+9）*
 - **場所：** 東北大学川内キャンパス（オンサイト）またはオンライン
 
 ---
@@ -151,7 +151,7 @@ Email: inada.takahiro [atto] kuas.ac.jp
 | 18:00〜20:00 | 懇親会ディナー（オンサイト参加者のみ） |
 
 **セッション2：パネルディスカッション「日本で国際的に活躍する研究者からの学び」**
-- 登壇候補：青木 克生 先生（明治大学）、加納 拡和 先生（九州大学）、安田先生（立教大学）
+- 登壇候補：青木 克生 先生（明治大学）、加納 拡和 先生（九州大学）
 - モデレーター：稲田 昂弘 先生
 
 #### 2日目：8月26日
