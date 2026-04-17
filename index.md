@@ -10,7 +10,7 @@ description: "Call for Papers — Paper Development Workshop, August 25–26 202
 
 This PDW (Paper Development Workshop) is designed for early-career researchers based in Asia or studying management phenomena related to Asia. It provides opportunities to discuss their work and receive individual feedback from scholars with publication and editorial experience at top journals such as Academy of Management Journal, Strategic Management Journal, and Organization Science. The workshop aims to promote research with global impact originating from Asia.
 
-Both on-site participation at Tohoku University (Sendai, Japan) and online participation are welcome. On-site participants will have access to rich networking opportunities with other attendees, and limited financial support (¥20,000 × 4 participants) is available from the Kyoto University of Advanced Science's Kyoto Firm Research Center. We strongly encourage in-person attendance. Sendai in late August offers a cool and pleasant climate — a perfect opportunity to refresh your mind and gain new insights and connections.
+Both on-site participation at Tohoku University (Sendai, Japan) and online participation are welcome. On-site participants will have access to rich networking opportunities with other attendees, and limited financial support (JPY 20,000 × 4 participants) is available from the Kyoto University of Advanced Science's Kyoto Firm Research Center. We strongly encourage in-person attendance. Sendai in late August offers a cool and pleasant climate — a perfect opportunity to refresh your mind and gain new insights and connections.
 
 ---
 
@@ -74,7 +74,7 @@ Please submit the following materials via the submission form:
 
 1. Full paper (no length limit) **or** extended abstract (up to 5 pages, single-spaced, excluding tables, figures, and references)
 2. CV
-3. *(Optional)* If you wish to apply for financial support (¥20,000 per person), please submit a statement of motivation (up to one A4 page).
+3. *(Optional)* If you wish to apply for financial support (JPY 20,000 per person), please submit a statement of motivation (up to one A4 page).
 
 **Submission form:** TBA
 
@@ -85,11 +85,11 @@ Please submit the following materials via the submission form:
 Please select up to 2 preferred mentors from the list below. Note: Due to capacity constraints, you may be assigned to a mentor other than your preference. Additional mentors may be added depending on applicants' research areas.
 
 - Prof. John Chen (Baylor University)
-- Prof. Hong Luo (University of Toronto)
-- Prof. Gwendolyn Lee (Purdue University)
 - Prof. JP Eggers (New York University)
-- Prof. Alex Murray (University of Oregon)
+- Prof. Gwendolyn Lee (Purdue University)
+- Prof. Hong Luo (University of Toronto)
 - Prof. Mona Makhija (Ohio State University)
+- Prof. Alex Murray (University of Oregon)
 
 ---
 
@@ -191,11 +191,11 @@ Email: inada.takahiro [atto] kuas.ac.jp
 以下のリストから、希望するメンターを2名まで選択してください。※参加者数の都合により、希望以外のメンターに振り分けられる場合があります。また、応募者の研究分野によっては、メンターが追加される可能性があります。
 
 - John Chen 先生（ベイラー大学）
-- Hong Luo 先生（トロント大学）
-- Gwendolyn Lee 先生（パデュー大学）
 - JP Eggers 先生（ニューヨーク大学）
-- Alex Murray 先生（オレゴン大学）
+- Gwendolyn Lee 先生（パデュー大学）
+- Hong Luo 先生（トロント大学）
 - Mona Makhija 先生（オハイオ州立大学）
+- Alex Murray 先生（オレゴン大学）
 
 ---
 
