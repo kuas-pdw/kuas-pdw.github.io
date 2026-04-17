@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title | default: site.title }}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+
+  <!-- Open Graph / Social -->
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{ page.title | default: site.title }}">
+  <meta property="og:description" content="{{ page.description | default: site.description }}">
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+
+  <!-- Sticky language nav -->
+  <div class="lang-bar">
+    <div class="lang-bar-inner">
+      <span class="lang-bar-title">KUAS PDW 2025</span>
+      <div class="lang-links">
+        <a href="#english">English</a>
+        <span>|</span>
+        <a href="#japanese">日本語</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Hero header -->
+  <header class="hero">
+    <div class="hero-inner">
+      <p class="hero-label">Call for Papers</p>
+      <h1>KUAS PDW for Junior Management Scholars in Asia</h1>
+      <div class="hero-meta">
+        <span>📅 August 25–26, 2025</span>
+        <span>📍 Tohoku University, Sendai &amp; Online</span>
+        <span>⏰ Deadline: July 13</span>
+      </div>
+    </div>
+  </header>
+
+  <main class="content">
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    <p>KUAS PDW 2025 &mdash; Kyoto University of Advanced Science &times; Tohoku University &times; Singapore Management University</p>
+  </footer>
+
+</body>
+</html>
