@@ -8,7 +8,7 @@ description: "Call for Papers — Paper Development Workshop, August 25–26 202
 
 ### Purpose
 
-This PDW (Paper Development Workshop) is designed for early-career researchers based in Asia or studying management phenomena related to Asia. It provides opportunities to discuss their work and receive individual feedback from scholars with publication and editorial experience at top journals such as Academy of Management Journal, Strategic Management Journal, and Organization Science. The workshop aims to promote research with global impact originating from Asia.
+This PDW (Paper Development Workshop) is designed for early-career researchers based in Asia or studying management phenomena related to Asia. It provides opportunities to discuss their work and receive individual feedback from scholars with publication and editorial experience at top journals such as Academy of Management Review, Strategic Management Journal, and Organization Science. The workshop aims to promote research with global impact originating from Asia.
 
 Both on-site participation at Tohoku University (Sendai, Japan) and online participation are welcome. On-site participants will have access to rich networking opportunities with other attendees, and limited financial support (JPY 20,000 × 4 participants) is available from the Kyoto University of Advanced Science's Kyoto Firm Research Center. We strongly encourage in-person attendance. Sendai in late August offers a cool and pleasant climate — a perfect opportunity to refresh your mind and gain new insights and connections.
 
@@ -113,7 +113,7 @@ Email: inada.takahiro [atto] kuas.ac.jp
 
 ### 目的
 
-本 PDW（ペーパー・ディベロップメント・ワークショップ）は、アジアを拠点とする、またはアジアに関連する経営現象を研究する若手研究者を対象に、Academy of Management Journal、Strategic Management Journal、Organization Science などのトップジャーナルへの掲載・編集経験を持つ研究者と議論し、個別フィードバックを受ける機会を提供します。アジアからグローバルなインパクトのある研究を発信することを目指します。
+本 PDW（ペーパー・ディベロップメント・ワークショップ）は、アジアを拠点とする、またはアジアに関連する経営現象を研究する若手研究者を対象に、Academy of Management Review、Strategic Management Journal、Organization Science などのトップジャーナルへの掲載・編集経験を持つ研究者と議論し、個別フィードバックを受ける機会を提供します。アジアからグローバルなインパクトのある研究を発信することを目指します。
 
 参加形式は、東北大学（日本・仙台）でのオンサイト参加およびオンライン参加のいずれも歓迎します。オンサイト参加者には、他の参加者との充実したネットワーキングの機会に加え、京都先端科学大学 京都企業研究センターより限られた金銭的補助（2万円×4名）が提供されます。ぜひ現地参加をご検討ください。8月末の開催地・仙台は涼しく過ごしやすい気候です。頭をリフレッシュし、新たな知見とつながりを得る機会としてご活用ください。
 
