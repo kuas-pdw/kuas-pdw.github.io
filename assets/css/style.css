@@ -2,9 +2,9 @@
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
 :root {
-  --accent:    #1a4f8a;
-  --accent-lt: #e8f0fb;
-  --deadline:  #b91c1c;
+  --accent:    #1a6b3f;
+  --accent-lt: #e6f4ec;
+  --deadline:  #b45309;
   --text:      #1a1a1a;
   --muted:     #555;
   --border:    #dde3ec;
@@ -48,7 +48,7 @@ body {
 
 /* ── Hero ── */
 .hero {
-  background: linear-gradient(135deg, #1a4f8a 0%, #2d6db5 100%);
+  background: linear-gradient(135deg, #1a6b3f 0%, #2d9458 100%);
   color: #fff;
   padding: 3.5rem 1.5rem 3rem;
 }
@@ -138,7 +138,7 @@ strong { }
 
 /* Deadline box — wrap key info */
 .deadline-box {
-  background: #fef2f2;
+  background: #fffbeb;
   border-left: 4px solid var(--deadline);
   border-radius: var(--radius);
   padding: 0.75rem 1rem;
