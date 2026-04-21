@@ -46,7 +46,7 @@ PhD students and early-career researchers in management (generally within 5 year
 | 18:00–20:00 | Networking dinner *(on-site participants only)* |
 
 **Session 2 Panel Discussion: "Lessons from Internationally Active Researchers Based in Japan"**
-- Panelists (tentative): Prof. Katsuki Aoki (Meiji University), Prof. Hirokazu Kano (Kyushu University)
+- Panelists (tentative): Prof. Katsuki Aoki (Meiji University), Prof. Hirokazu Kano (Kyushu University - online)
 - Moderator: Prof. Takahiro Inada
 
 #### Day 2: August 26
@@ -54,10 +54,10 @@ PhD students and early-career researchers in management (generally within 5 year
 | Time | Session |
 |------|---------|
 | 9:00–10:00 | Session 1: Individual feedback *(accepted participants only)* |
-| 10:10–11:10 | Session 2: Panel discussion *(all participants)* |
+| 10:10–11:10 | Session 2: Panel discussion |
 | 11:30–13:00 | Networking lunch *(on-site participants only)* |
 
-**Session 1 – Individual Feedback:** Accepted participants will be assigned to groups of 1–3 per mentor and receive personalized feedback on their research (open to those who have submitted and been accepted with a paper or abstract). If some mentors are unable to attend in person, sessions will be scheduled individually.
+**Session 1 – Individual Feedback:** Accepted participants will be assigned to groups of 1–3 per mentor and receive personalized feedback on their research (open to those who have submitted and been accepted with a paper or abstract). If some mentors are unable to attend in this period, sessions will be scheduled individually.
 
 **Session 2 Panel Discussion: "The Road to Your First Publication: Challenges and Lessons Learned"**  
 Every researcher who has published in top journals had a "first paper." How did their first project begin? What challenges did they face and what did they learn? Two promising early-career researchers will look back on their early research and publication journeys and share their experiences and insights.
@@ -153,7 +153,7 @@ Email: inada.takahiro [atto] kuas.ac.jp
 | 18:00〜20:00 | 懇親会ディナー（オンサイト参加者のみ） |
 
 **セッション2：パネルディスカッション「日本で国際的に活躍する研究者からの学び」**
-- 登壇候補：青木 克生 先生（明治大学）、加納 拡和 先生（九州大学）
+- 登壇候補：青木 克生 先生（明治大学）、加納 拡和 先生（九州大学 - オンライン参加）
 - モデレーター：稲田 昂弘 先生
 
 #### 2日目：8月26日
@@ -169,7 +169,7 @@ Email: inada.takahiro [atto] kuas.ac.jp
 
 **セッション2：パネルディスカッション「初めての論文掲載への道：困難と学び」**  
 トップジャーナルに論文を発表してきた研究者にも、必ず「最初の論文」がありました。最初のプロジェクトはどのように始まったのか。どのような困難に直面し、何を学んだのか。二人の若手気鋭研究者が、初期の研究・出版の歩みを振り返り、経験と知見を共有します。
-- 登壇者：Sanghyun Park 先生（シンガポール国立大学）、Sandip Bisui 先生（パデュー大学：オンライン）
+- 登壇者：Sanghyun Park 先生（シンガポール国立大学）、Sandip Bisui 先生（パデュー大学 - オンライン参加）
 - モデレーター：稲田 昂弘 先生
 
 ---
