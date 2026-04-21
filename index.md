@@ -70,6 +70,8 @@ Every researcher who has published in top journals had a "first paper." How did 
 
 <div class="deadline-box">Submission deadline: July 13, 2026</div>
 
+Those who wish to attend only the open-to-all sessions (without submitting a paper) are also welcome — please register via the same form.
+
 Please submit the following materials via the submission form:
 
 1. Full paper (no length limit) **or** extended abstract (up to 5 pages, single-spaced, excluding tables, figures, and references)
@@ -82,7 +84,7 @@ Please submit the following materials via the submission form:
 
 ### Mentor List *(tentative)*
 
-Please select up to 2 preferred mentors from the list below. Note: Due to capacity constraints, you may be assigned to a mentor other than your preference. Additional mentors may be added depending on applicants' research areas.
+Please select up to 2 preferred mentors from the list below. Note: Due to capacity constraints, you may be assigned to a mentor other than your preference. Additional mentors may be added depending on applicants' research areas. All mentors will participate online.
 
 - Prof. John Chen (Baylor University)
 - Prof. JP Eggers (New York University)
@@ -176,6 +178,8 @@ Email: inada.takahiro [atto] kuas.ac.jp
 
 <div class="deadline-box">提出締切：2026年7月13日</div>
 
+論文提出なしで全参加者対象セッションのみに参加を希望される方も歓迎します。その場合も、同じフォームから参加登録をお願いします。
+
 以下の書類を提出フォームよりご提出ください。
 
 1. フルペーパー（字数制限なし）**または** エクステンデッド・アブストラクト（シングルスペースで5ページ以内、表・図・参考文献を除く）
@@ -188,7 +192,7 @@ Email: inada.takahiro [atto] kuas.ac.jp
 
 ### メンター一覧（暫定）
 
-以下のリストから、希望するメンターを2名まで選択してください。※参加者数の都合により、希望以外のメンターに振り分けられる場合があります。また、応募者の研究分野によっては、メンターが追加される可能性があります。
+以下のリストから、希望するメンターを2名まで選択してください。※参加者数の都合により、希望以外のメンターに振り分けられる場合があります。また、応募者の研究分野によっては、メンターが追加される可能性があります。メンターは全員オンラインでの参加となります。
 
 - John Chen 先生（ベイラー大学）
 - JP Eggers 先生（ニューヨーク大学）
