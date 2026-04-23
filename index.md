@@ -101,6 +101,12 @@ Acceptance decisions and mentor matching results will be communicated approximat
 
 ---
 
+### Related Event
+
+Immediately following this PDW, the [IIR Innovation Research Workshop 2026](https://www.iir.hit-u.ac.jp/en/2026/04/02/workshop2026/) will be held on **August 27–28 in Tokyo** (Hitotsubashi University, Kunitachi East Campus / online). We encourage you to attend both events.
+
+---
+
 ### Contact
 
 **Takahiro Inada**  
@@ -206,6 +212,12 @@ Email: inada.takahiro [atto] kuas.ac.jp
 ### 採否通知
 
 提出締切の1週間後をめどに、採択の可否およびメンターのマッチング結果をお知らせします。
+
+---
+
+### 関連イベント
+
+本PDWの直後、**8月27〜28日に東京**（一橋大学国立東キャンパス／オンライン）にて [IIR Innovation Research Workshop 2026](https://www.iir.hit-u.ac.jp/en/2026/04/02/workshop2026/) が開催されます。ぜひ併せてご参加ください。
 
 ---
 
