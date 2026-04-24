@@ -78,7 +78,7 @@ Please submit the following materials via the submission form:
 2. CV
 3. *(Optional)* If you wish to apply for financial support (JPY 20,000 per person), please submit a statement of motivation (up to one page).
 
-**Submission form:** TBA
+**Submission form:** [Click here to apply](https://forms.gle/jWe47vqtjUwqxAqX9)
 
 ---
 
@@ -192,7 +192,7 @@ Email: inada.takahiro [atto] kuas.ac.jp
 2. 履歴書（CV）
 3. 【任意】金銭的補助（1名2万円）の申請を希望される方は、参加のモチベーションを1枚以内にまとめてご提出ください。
 
-**提出フォーム：** TBA
+**提出フォーム：** [こちらからご応募ください](https://forms.gle/jWe47vqtjUwqxAqX9)
 
 ---
 
