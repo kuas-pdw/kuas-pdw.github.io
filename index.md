@@ -29,8 +29,8 @@ PhD students and early-career researchers in management (generally within 5 year
 
 ### Organizers
 
-- Takahiro Inada (Kyoto University of Advanced Science)
-- Yaguang Yan (Tohoku University)
+- Takahiro Inada (Kyoto University of Advanced Science) - on-site
+- Yaguang Yan (Tohoku University) - on-site
 - Shuta Tsuchiya (Singapore Management University)
 
 ---
@@ -46,7 +46,7 @@ PhD students and early-career researchers in management (generally within 5 year
 | 18:00–20:00 | Networking dinner *(on-site participants only)* |
 
 **Session 2 Panel Discussion: "Lessons from Internationally Active Researchers Based in Japan"**
-- Panelists (tentative): Prof. Katsuki Aoki (Meiji University), Prof. Hirokazu Kano (Kyushu University - online)
+- Panelists (tentative): Prof. Katsuki Aoki (Meiji University), Prof. Hirokazu Kano (Kyushu University - online), Prof. Toru Yoshikawa (Waseda University - on-site)
 - Moderator: Prof. Takahiro Inada
 
 #### Day 2: August 26
@@ -142,8 +142,8 @@ Email: inada.takahiro [atto] kuas.ac.jp
 
 ### オーガナイザー
 
-- 稲田 昂弘（京都先端科学大学）
-- 閻 亜光（東北大学）
+- 稲田 昂弘（京都先端科学大学）- オンサイト
+- 閻 亜光（東北大学）- オンサイト
 - 土屋 秀太（シンガポール経営大学）
 
 ---
@@ -159,7 +159,7 @@ Email: inada.takahiro [atto] kuas.ac.jp
 | 18:00〜20:00 | 懇親会ディナー（オンサイト参加者のみ） |
 
 **セッション2：パネルディスカッション「日本で国際的に活躍する研究者からの学び」**
-- 登壇候補：青木 克生 先生（明治大学）、加納 拡和 先生（九州大学 - オンライン参加）
+- 登壇候補：青木 克生 先生（明治大学）、加納 拡和 先生（九州大学 - オンライン）、好川 透 先生（早稲田大学 - オンサイト）
 - モデレーター：稲田 昂弘 先生
 
 #### 2日目：8月26日
