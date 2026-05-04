@@ -84,7 +84,7 @@ Please submit the following materials via the submission form:
 
 ### Mentor List *(tentative)*
 
-Please select up to 2 preferred mentors from the list below. Note: Due to capacity constraints, you may be assigned to a mentor other than your preference. Additional mentors may be added depending on applicants' research areas. All mentors will participate online.
+Please select up to 2 preferred mentors from the list below. Note: Due to capacity constraints, you may be assigned to a mentor other than your preference. Additional mentors may be added depending on applicants' research areas. Mentors will participate online unless otherwise noted.
 
 - Prof. John Chen (Baylor University)
 - Prof. JP Eggers (New York University)
@@ -92,6 +92,7 @@ Please select up to 2 preferred mentors from the list below. Note: Due to capaci
 - Prof. Hong Luo (University of Toronto)
 - Prof. Mona Makhija (Ohio State University)
 - Prof. Alex Murray (University of Oregon)
+- Prof. Toru Yoshikawa (Waseda University — on-site)
 
 ---
 
@@ -198,7 +199,7 @@ Email: inada.takahiro [atto] kuas.ac.jp
 
 ### メンター一覧（暫定）
 
-以下のリストから、希望するメンターを2名まで選択してください。※参加者数の都合により、希望以外のメンターに振り分けられる場合があります。また、応募者の研究分野によっては、メンターが追加される可能性があります。メンターは全員オンラインでの参加となります。
+以下のリストから、希望するメンターを2名まで選択してください。※参加者数の都合により、希望以外のメンターに振り分けられる場合があります。また、応募者の研究分野によっては、メンターが追加される可能性があります。記載のない限り、メンターはオンラインでの参加となります。
 
 - John Chen 先生（ベイラー大学）
 - JP Eggers 先生（ニューヨーク大学）
@@ -206,6 +207,7 @@ Email: inada.takahiro [atto] kuas.ac.jp
 - Hong Luo 先生（トロント大学）
 - Mona Makhija 先生（オハイオ州立大学）
 - Alex Murray 先生（オレゴン大学）
+- 好川 透 先生（早稲田大学 — オンサイト）
 
 ---
 
