@@ -33,6 +33,12 @@ PhD students and early-career researchers in management (generally within 5 year
 - Yaguang Yan (Tohoku University) - on-site
 - Shuta Tsuchiya (Singapore Management University)
 
+### Sponsors
+
+- **Organizer:** Kyoto Firm Research Center, Kyoto University of Advanced Science (KUAS)
+- **Co-organizer:** Graduate School of Economics and Management, Tohoku University
+- **Supported by:** Academic Association for Organizational Science
+
 ---
 
 ### Program
@@ -146,6 +152,12 @@ Email: inada.takahiro [atto] kuas.ac.jp
 - 稲田 昂弘（京都先端科学大学）- オンサイト
 - 閻 亜光（東北大学）- オンサイト
 - 土屋 秀太（シンガポール経営大学）
+
+### 主催・後援
+
+- **主催：** 京都先端科学大学 京都企業研究センター
+- **共催：** 東北大学大学院経済学研究科
+- **後援：** 組織学会
 
 ---
 
