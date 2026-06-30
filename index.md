@@ -29,8 +29,8 @@ PhD students and early-career researchers in management (generally within 5 year
 
 ### Organizers
 
-- Takahiro Inada (Kyoto University of Advanced Science) - on-site
-- Yaguang Yan (Tohoku University) - on-site
+- Takahiro Inada (Kyoto University of Advanced Science) - on-site participation
+- Yaguang Yan (Tohoku University) - on-site participation
 - Shuta Tsuchiya (Singapore Management University)
 
 ### Sponsors
@@ -149,8 +149,8 @@ Email: inada.takahiro [atto] kuas.ac.jp
 
 ### オーガナイザー
 
-- 稲田 昂弘（京都先端科学大学）- オンサイト
-- 閻 亜光（東北大学）- オンサイト
+- 稲田 昂弘（京都先端科学大学）- オンサイト参加
+- 閻 亜光（東北大学）- オンサイト参加
 - 土屋 秀太（シンガポール経営大学）
 
 ### 主催・後援
