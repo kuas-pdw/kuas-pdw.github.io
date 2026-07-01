@@ -67,7 +67,7 @@ PhD students and early-career researchers in management (generally within 5 year
 
 **Session 2 Panel Discussion: "The Road to Your First Publication: Challenges and Lessons Learned"**  
 Every researcher who has published in top journals had a "first paper." How did their first project begin? What challenges did they face and what did they learn? Two promising early-career researchers will look back on their early research and publication journeys and share their experiences and insights.
-- Panelists: Prof. Sanghyun Park (National University of Singapore), Prof. Sandip Bisui (Purdue University — online)
+- Panelists: Prof. Sanghyun Park (National University of Singapore — online), Prof. Sandip Bisui (Purdue University — online)
 - Moderator: Prof. Takahiro Inada
 
 ---
@@ -188,7 +188,7 @@ Email: inada.takahiro [atto] kuas.ac.jp
 
 **セッション2：パネルディスカッション「初めての論文掲載への道：困難と学び」**  
 トップジャーナルに論文を発表してきた研究者にも、必ず「最初の論文」がありました。最初のプロジェクトはどのように始まったのか。どのような困難に直面し、何を学んだのか。二人の若手気鋭研究者が、初期の研究・出版の歩みを振り返り、経験と知見を共有します。
-- 登壇者：Sanghyun Park 先生（シンガポール国立大学）、Sandip Bisui 先生（パデュー大学 - オンライン参加）
+- 登壇者：Sanghyun Park 先生（シンガポール国立大学 - オンライン参加）、Sandip Bisui 先生（パデュー大学 - オンライン参加）
 - モデレーター：稲田 昂弘 先生
 
 ---
