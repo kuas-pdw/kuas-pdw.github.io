@@ -17,7 +17,13 @@ Both on-site participation at Tohoku University (Sendai, Japan) and online parti
 ### Date & Venue
 
 - **Dates:** Tuesday, August 25 – Wednesday, August 26, 2026 *(All times in Japan Standard Time, UTC+9)*
-- **Venue:** Tohoku University Kawauchi Campus (on-site) or online
+- **Venue:** Tohoku University Kawauchi South Campus (on-site) or online  
+  27-1 Kawauchi, Aoba-ku, Sendai City, Miyagi Prefecture
+  - **August 25 (Tue):** Small Lecture Room 3, 2nd Floor, Humanities and Social Sciences Comprehensive Lecture Building (C19)
+  - **August 26 (Wed):** Small Lecture Room 3, 2nd Floor, Humanities and Social Sciences Comprehensive Lecture Building; and Seminar Rooms 3, 8, and 24, 1st Floor, Graduate School of Economics Building (C19, C16)
+- **Nearest Station:** Kawauchi Station (Sendai Subway Tozai Line)
+- **Campus Map:** [Kawauchi South Campus](https://www.tohoku.ac.jp/japanese/profile/campus/01/kawauchi/areac.html)
+- **Access:** [Getting to Tohoku University](https://www.tohoku.ac.jp/japanese/profile/campus/01/access)
 
 ---
 
@@ -137,7 +143,13 @@ Email: inada.takahiro [atto] kuas.ac.jp
 ### 日時・場所
 
 - **日時：** 2026年8月25日（火）〜26日（水）*※表示時刻はすべて日本標準時（UTC+9）*
-- **場所：** 東北大学川内キャンパス（オンサイト）またはオンライン
+- **場所：** 東北大学川内南キャンパス（オンサイト）またはオンライン  
+  〒980-8576 宮城県仙台市青葉区川内27-1
+  - **8月25日（火）：** 文科系総合講義棟2階 第三小講義室（C19）
+  - **8月26日（水）：** 文科系総合講義棟2階 第三小講義室、および経済学研究科棟1階 第3・8・24演習室（C19、C16）
+- **最寄り駅：** 仙台市地下鉄東西線 川内駅
+- **キャンパスマップ：** [川内南キャンパス](https://www.tohoku.ac.jp/japanese/profile/campus/01/kawauchi/areac.html)
+- **アクセス：** [東北大学へのアクセス](https://www.tohoku.ac.jp/japanese/profile/campus/01/access)
 
 ---
 
